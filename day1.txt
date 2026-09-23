@@ -1,1 +1,2 @@
-Today I started learning Git and GitHub
+Today I started learning Git and GitHub.
+I am learning how Git tracks changes.
